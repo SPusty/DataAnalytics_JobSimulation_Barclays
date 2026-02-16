@@ -14,12 +14,12 @@ A Virtual Experience as Barclays Data Analyst- Analyse a dataset of incidents re
 - Identified data with trends from the shared raw data
 - Translated findings into business recommendations
 - Built a stacked bar chart to support decision-making in Tableau
-- Update analysis in the Workbook
-- Upload project to the portal
+- Updated analysis in the Workbook
+- Uploaded project to the portal
 
 ## Skills Demonstrated
 - Data Analysis
-- Data Visualization Tools
+- Data Visualization
 
 ## Certificate
 https://space.springpod.com/certificate/2hk781u09cch/share
